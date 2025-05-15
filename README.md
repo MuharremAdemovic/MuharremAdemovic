@@ -2,14 +2,15 @@
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **.NET & Angular projects**
+- ⚙️ Specialized in **PDM-ERP Integrations** (SolidWorks PDM, ERP systems)
 - 🌱 I’m currently learning **Microservices, Docker, and Azure**
-- 💬 Ask me about **.NET, C#, REST APIs, and SQL**
-- 📫 How to reach me: **muharremademoglu@outlook.com**
-- ⚡ Fun fact: I love solving real-world problems with code
+- 💬 Ask me about **.NET, C#, REST APIs, SQL, and system integrations**
+- 📫 Reach me via email: **muharremademoglu@outlook.com**
+- ⚡ Fun fact: I enjoy automating engineering workflows using code
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Technologies & Tools I Use:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30"/>
@@ -22,7 +23,16 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 🧩 PDM-ERP Integration Skills
+
+- 🔄 **SolidWorks PDM API** kullanarak veri çekme, dosya yönetimi ve revizyon takibi
+- 🧾 ERP sistemleriyle **otomatik veri senkronizasyonu** ve dosya ilişkilendirme
+- 🔐 Güvenli ve **kimlik doğrulamalı bağlantı yönetimi**
+- 📦 .NET uygulamalarıyla **otomatik iş akışı** (workflow) entegrasyonu
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuharremAdemovic&show_icons=true&theme=radical" alt="github stats" />
@@ -31,9 +41,9 @@
 
 ---
 
-### 🏆 Achievements & Contributions
+### 🏆 Achievements
 
-- 💡 500+ total contributions
-- 📅 Longest streak: 10 days
-- 🌟 Starred repositories: 27
-- 🎯 Continuous learner and open source contributor
+- 🛠 500+ Total Contributions
+- 🔄 PDM-ERP entegrasyon tecrübeleri
+- ⭐ Starred Repositories: 27
+- 📅 Longest GitHub Streak: 10 days
