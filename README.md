@@ -40,10 +40,3 @@
 </p>
 
 ---
-
-### 🏆 Achievements
-
-- 🛠 500+ Total Contributions
-- 🔄 PDM-ERP entegrasyon tecrübeleri
-- ⭐ Starred Repositories: 27
-- 📅 Longest GitHub Streak: 10 days
